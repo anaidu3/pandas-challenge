@@ -1,5 +1,3 @@
-# pandas-challenge
-Create and manipulate Pandas DataFrames to analyze school and standardized test data
 # Unit 4 Homework: Pandas, Pandas, Pandas
 In this assignment, you’ll create and manipulate Pandas DataFrames to analyze school and standardized test data.
 
